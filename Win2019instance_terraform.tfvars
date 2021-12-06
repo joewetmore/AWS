@@ -1,0 +1,3 @@
+AWS_ACCESS_KEY="some key"
+AWS_SECRET_KEY="some keys"
+INSTANCE_PASSWORD="Passw0rd012345"
